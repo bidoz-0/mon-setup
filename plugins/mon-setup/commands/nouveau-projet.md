@@ -50,4 +50,12 @@ Modèle de CLAUDE.md :
 - Pas de fausses données ni de TODO caché : si quelque chose n'est pas fait ou pas faisable, dis-le.
 - Préviens avant toute action risquée (suppression, gros refactor, migration).
 - Structure du projet : voir ARCHITECTURE.md. Où on en est : dernier fichier de docs/handoff/.
+
+## Structure du code
+- Le point d'entrée (main) ne fait que lancer l'appli : aucune logique dedans.
+- Séparer interface, logique, données et services externes (API).
+- Un fichier = un rôle. Au-delà de ~300 lignes, découper.
+- Dossiers rangés par fonctionnalité, pas par type de fichier.
+- Configuration et secrets à part, jamais en dur dans le code.
+- Avant de créer un fichier, vérifier s'il existe déjà un endroit logique pour ce code.
 ```
