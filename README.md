@@ -36,7 +36,7 @@ Si une commande entre en conflit avec une autre, utiliser la forme longue : `/mo
 **Skills officiels (copiés sans modification, voir THIRD_PARTY.md)**
 - obra/superpowers : brainstorming, writing-plans, verification-before-completion
 - mattpocock/skills : handoff, diagnosing-bugs, wait-what
-- emilkowalski/skills : apple-design
+- emilkowalski/skills : apple-design, animation-performance
 
 **Installé à part (plugin officiel)** : Ponytail
 
