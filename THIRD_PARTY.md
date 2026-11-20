@@ -13,4 +13,4 @@ Les licences complètes sont dans `third_party/<owner>-<repo>/LICENSE`.
 | wait-what | [mattpocock/skills](https://github.com/mattpocock/skills) | `skills/productivity/wait-what/` | `abeeaf95660ba9e8b7c753eb38f441ca707a8823` | MIT (`third_party/mattpocock-skills/LICENSE`) |
 | apple-design | [emilkowalski/skills](https://github.com/emilkowalski/skills) | `skills/apple-design/` | `64eb3deb9a5fbfa041faf783e0bc3fd635872e9c` | MIT (`third_party/emilkowalski-skills/LICENSE`) |
 | animation-performance | [emilkowalski/skills](https://github.com/emilkowalski/skills) | `skills/animation-performance/` | `64eb3deb9a5fbfa041faf783e0bc3fd635872e9c` | MIT (`third_party/emilkowalski-skills/LICENSE`) |
-| humanizer (dans `pour-appli-claude/humanizer.zip`) | [blader/humanizer](https://github.com/blader/humanizer) | `SKILL.md` (racine du repo) | `a32f24407364c74c812b43c15926d638bee1e072` | MIT (`third_party/blader-humanizer/LICENSE`) |
+| humanizer | [blader/humanizer](https://github.com/blader/humanizer) | `SKILL.md` et `agents/openai.yaml` (racine du repo) | `a32f24407364c74c812b43c15926d638bee1e072` | MIT (`third_party/blader-humanizer/LICENSE`) |

@@ -37,10 +37,9 @@ Si une commande entre en conflit avec une autre, utiliser la forme longue : `/mo
 - obra/superpowers : brainstorming, writing-plans, verification-before-completion
 - mattpocock/skills : handoff, diagnosing-bugs, wait-what
 - emilkowalski/skills : apple-design, animation-performance
+- blader/humanizer : humanizer
 
 **Installé à part (plugin officiel)** : Ponytail
-
-**Pour l'appli Claude** : `pour-appli-claude/humanizer.zip`, à importer dans Customize > Skills.
 
 ## Mettre à jour les skills officiels
 Demander à Claude Code : « mets à jour les skills officiels de mon-setup depuis leurs repos d'origine, sans les modifier, et mets à jour THIRD_PARTY.md ».
