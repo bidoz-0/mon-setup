@@ -1,0 +1,13 @@
+{
+  "name": "mon-setup",
+  "owner": {
+    "name": "bidoz-0"
+  },
+  "plugins": [
+    {
+      "name": "mon-setup",
+      "source": "./plugins/mon-setup",
+      "description": "Le setup Claude Code de Gabriel : agents Haiku/Sonnet, Git sans stress, cadrage de projet, sauvegarde et reprise."
+    }
+  ]
+}
