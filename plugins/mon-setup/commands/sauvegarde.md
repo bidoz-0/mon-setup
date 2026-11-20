@@ -10,6 +10,13 @@ Fin de session. Dans l'ordre :
 
 3. **Sauvegarde** : utilise le skill git-sans-stress (commit + push sur la bonne branche).
 
-4. **Reprise** : utilise le skill handoff et enregistre le document dans `docs/handoff/AAAA-MM-JJ.md` (date du jour). Commite-le et pousse-le aussi.
+4. **Reprise** : écris toi-même un document de reprise dans `docs/handoff/AAAA-MM-JJ.md` (date du jour ; si le fichier existe déjà, complète-le). Contenu, court :
+   - **Objectif en cours** : ce qu'on essaie de faire.
+   - **Fait aujourd'hui** : les changements, avec les fichiers clés.
+   - **État** : ce qui marche, ce qui est cassé ou pas testé.
+   - **Décisions prises** et leur raison en une ligne.
+   - **Prochaine étape** : la toute prochaine action concrète.
+   - **Pièges** : ce qu'il ne faut pas oublier ou refaire.
+   Commite-le et pousse-le aussi.
 
 5. **Fin** : résume en 3 lignes ce qui est sauvegardé, où, et la prochaine étape.
