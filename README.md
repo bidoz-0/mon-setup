@@ -18,6 +18,7 @@ Dans Claude Code, taper ces 4 lignes une par une, puis redémarrer la session :
 | Commande | Quand |
 |---|---|
 | `/nouveau-projet [idée]` | Démarrer un projet ou une grosse fonctionnalité |
+| `/integrer` | Ajouter un projet existant au setup (doc, sécurité, problèmes de structure) |
 | `/reprends` | Revenir sur un projet : où on en était |
 | `/sauvegarde` | Fin de session : vérification, relecture, push, résumé de reprise |
 | `/wait-what` | Je n'ai pas compris la réponse |
@@ -30,7 +31,7 @@ Si une commande entre en conflit avec une autre, utiliser la forme longue : `/mo
 **Mes fichiers**
 - Agents : `explorateur` (Haiku), `codeur` (Sonnet), `relecteur` (Sonnet, ou Opus en changeant une ligne)
 - Skill : `git-sans-stress`
-- Commandes : `nouveau-projet`, `reprends`, `sauvegarde`
+- Commandes : `nouveau-projet`, `integrer`, `reprends`, `sauvegarde`
 - `CLAUDE-global.md` : mes règles, à mettre dans `~/.claude/CLAUDE.md`
 
 **Skills officiels (copiés sans modification, voir THIRD_PARTY.md)**
