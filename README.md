@@ -50,6 +50,7 @@ Dans `~/.claude/settings.json` sur le PC, ajouter `"model": "opusplan"` : Opus q
 - Dans Claude Code : `/plugin marketplace update mon-setup`, puis redémarrer la session. Le plugin est alors à jour dans tous les projets.
 - Pour ne plus y penser : `/plugin` > Marketplaces > mon-setup > activer la mise à jour automatique.
 - Ce qui ne se met **pas** à jour tout seul : `~/.claude/CLAUDE.md` (à recopier depuis `CLAUDE-global.md`) et les `CLAUDE.md` déjà créés dans les projets (relancer `/integrer` ou demander à Claude de les aligner sur le modèle).
+- Après chaque modification du plugin, augmenter `version` dans `plugins/mon-setup/.claude-plugin/plugin.json` (ex. 1.1.0 → 1.2.0) : sinon la mise à jour n'est pas proposée.
 - Le modèle de CLAUDE.md est copié dans 2 commandes (`nouveau-projet` et `integrer`) : le modifier dans les deux.
 
 ## Mettre à jour les skills officiels
