@@ -17,3 +17,4 @@ Les licences complètes sont dans `third_party/<owner>-<repo>/LICENSE`.
 | apple-design | [emilkowalski/skills](https://github.com/emilkowalski/skills) | `skills/apple-design/` | `64eb3deb9a5fbfa041faf783e0bc3fd635872e9c` | MIT (`third_party/emilkowalski-skills/LICENSE`) |
 | animation-performance | [emilkowalski/skills](https://github.com/emilkowalski/skills) | `skills/animation-performance/` | `64eb3deb9a5fbfa041faf783e0bc3fd635872e9c` | MIT (`third_party/emilkowalski-skills/LICENSE`) |
 | humanizer | [blader/humanizer](https://github.com/blader/humanizer) | `SKILL.md` et `agents/openai.yaml` (racine du repo) | `a32f24407364c74c812b43c15926d638bee1e072` | MIT (`third_party/blader-humanizer/LICENSE`) |
+| caveman | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | `skills/caveman/` | `a192894723a8f47e7f504c7b5041967ff1f18e55` | Apache-2.0 (`third_party/JuliusBrussee-caveman/LICENSE`, avec `NOTICE` et `LICENSE-MIT`) |

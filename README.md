@@ -39,6 +39,7 @@ Si une commande entre en conflit avec une autre, utiliser la forme longue : `/mo
 - mattpocock/skills : handoff, diagnosing-bugs, wait-what, codebase-design, grill-me, grilling
 - emilkowalski/skills : apple-design, animation-performance
 - blader/humanizer : humanizer
+- JuliusBrussee/caveman : caveman
 
 **Installé à part (plugin officiel)** : Ponytail
 
