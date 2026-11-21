@@ -6,4 +6,4 @@
 - Jamais de secret (clé API, token, mot de passe) dans le code ou le repo.
 - Pas de fausses données ni de TODO caché : si quelque chose n'est pas fait ou pas faisable, dis-le franchement.
 - Préviens-moi avant toute action risquée (suppression, gros refactor, migration, force push).
-- Pour les tâches longues, utilise les agents : explorateur (recherche), codeur (écriture), relecteur (avant sauvegarde).
+- Agents : tu as mon accord permanent, sans me demander, pour utiliser l'agent explorateur dès qu'une recherche demande de lire plus de 3 fichiers, l'agent codeur pour écrire du code sur plusieurs fichiers, et l'agent relecteur avant chaque commit.

@@ -42,5 +42,14 @@ Si une commande entre en conflit avec une autre, utiliser la forme longue : `/mo
 
 **Installé à part (plugin officiel)** : Ponytail
 
+## Choisir le modèle une fois pour toutes
+Dans `~/.claude/settings.json` sur le PC, ajouter `"model": "opusplan"` : Opus quand on est en mode plan (Maj+Tab), Sonnet le reste du temps. Mettre `"model": "opus"` pour toujours parler à Opus.
+
+## Mettre à jour le setup sur un PC
+- Dans Claude Code : `/plugin marketplace update mon-setup`, puis redémarrer la session. Le plugin est alors à jour dans tous les projets.
+- Pour ne plus y penser : `/plugin` > Marketplaces > mon-setup > activer la mise à jour automatique.
+- Ce qui ne se met **pas** à jour tout seul : `~/.claude/CLAUDE.md` (à recopier depuis `CLAUDE-global.md`) et les `CLAUDE.md` déjà créés dans les projets (relancer `/integrer` ou demander à Claude de les aligner sur le modèle).
+- Le modèle de CLAUDE.md est copié dans 2 commandes (`nouveau-projet` et `integrer`) : le modifier dans les deux.
+
 ## Mettre à jour les skills officiels
 Demander à Claude Code : « mets à jour les skills officiels de mon-setup depuis leurs repos d'origine, sans les modifier, et mets à jour THIRD_PARTY.md ».

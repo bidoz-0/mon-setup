@@ -49,6 +49,7 @@ Modèle de CLAUDE.md :
 - Jamais de secret (clé API, token, mot de passe) dans le code ou le repo : variables d'environnement + .gitignore.
 - Pas de fausses données ni de TODO caché : si quelque chose n'est pas fait ou pas faisable, dis-le.
 - Préviens avant toute action risquée (suppression, gros refactor, migration).
+- Agents : l'utilisateur donne son accord permanent, sans redemander, pour utiliser l'agent explorateur dès qu'une recherche demande de lire plus de 3 fichiers, l'agent codeur pour écrire du code sur plusieurs fichiers, et l'agent relecteur avant chaque commit.
 - Structure du projet : voir ARCHITECTURE.md. Où on en est : dernier fichier de docs/handoff/.
 
 ## Structure du code
