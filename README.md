@@ -37,11 +37,11 @@ Si une commande entre en conflit avec une autre, utiliser la forme longue : `/mo
 **Skills officiels (copiés sans modification, voir THIRD_PARTY.md)**
 - obra/superpowers : brainstorming, writing-plans, verification-before-completion
 - mattpocock/skills : handoff, diagnosing-bugs, wait-what, codebase-design, grill-me, grilling
-- emilkowalski/skills : apple-design, animation-performance
+- emilkowalski/skills : apple-design, animation-performance, emil-design-eng, review-animations, choreograph
 - blader/humanizer : humanizer
 - JuliusBrussee/caveman : caveman
 
-**Installé à part (plugin officiel)** : Ponytail
+**Installé à part (plugin officiel)** : Ponytail, gardé pour `/ponytail-review` et `/ponytail-audit` (vérification finale d'un changement ou de tout le repo)
 
 ## Choisir le modèle une fois pour toutes
 Dans `~/.claude/settings.json` sur le PC, ajouter `"model": "opusplan"` : Opus quand on est en mode plan (Maj+Tab), Sonnet le reste du temps. Mettre `"model": "opus"` pour toujours parler à Opus.
