@@ -39,7 +39,7 @@ Si une commande entre en conflit avec une autre, utiliser la forme longue : `/mo
 **Skills officiels (copiés sans modification, voir THIRD_PARTY.md)**
 - obra/superpowers : brainstorming, writing-plans, verification-before-completion
 - mattpocock/skills : handoff, diagnosing-bugs, wait-what, codebase-design, grill-me, grilling
-- emilkowalski/skills : apple-design, animation-performance, emil-design-eng, review-animations, choreograph
+- emilkowalski/skills : apple-design, animation-performance, emil-design-eng
 - blader/humanizer : humanizer
 - JuliusBrussee/caveman : caveman
 
