@@ -4,13 +4,15 @@ Mon setup Claude Code, réutilisable dans tous mes projets.
 
 ## Installer (une fois par PC)
 
-Dans Claude Code, taper ces 4 lignes une par une, puis redémarrer la session :
+Dans Claude Code, taper ces 6 lignes une par une, puis redémarrer la session :
 
 ```
 /plugin marketplace add bidoz-0/mon-setup
 /plugin install mon-setup@mon-setup
 /plugin marketplace add DietrichGebert/ponytail
 /plugin install ponytail@ponytail
+/plugin marketplace add pbakaus/impeccable
+/plugin install impeccable@impeccable
 ```
 
 ## Commandes
@@ -37,11 +39,11 @@ Si une commande entre en conflit avec une autre, utiliser la forme longue : `/mo
 **Skills officiels (copiés sans modification, voir THIRD_PARTY.md)**
 - obra/superpowers : brainstorming, writing-plans, verification-before-completion
 - mattpocock/skills : handoff, diagnosing-bugs, wait-what, codebase-design, grill-me, grilling
-- emilkowalski/skills : apple-design, animation-performance
+- emilkowalski/skills : apple-design, animation-performance, emil-design-eng
 - blader/humanizer : humanizer
 - JuliusBrussee/caveman : caveman
 
-**Installé à part (plugin officiel)** : Ponytail
+**Installé à part (plugins officiels)** : Impeccable (design d'interface : `/impeccable critique`, `polish`, `audit`) et Ponytail, gardé pour `/ponytail-review` et `/ponytail-audit` (vérification finale d'un changement ou de tout le repo)
 
 ## Choisir le modèle une fois pour toutes
 Dans `~/.claude/settings.json` sur le PC, ajouter `"model": "opusplan"` : Opus quand on est en mode plan (Maj+Tab), Sonnet le reste du temps. Mettre `"model": "opus"` pour toujours parler à Opus.
